@@ -1,0 +1,8 @@
+[theme]
+base="dark"
+primaryColor="#F3A8CD"
+secundaryColor="#a5668b"
+secundaryBackgroundColor="#d3bcc0"
+textColor="#ffffff"
+font="#sans-serif"
+baseRadius="full"
